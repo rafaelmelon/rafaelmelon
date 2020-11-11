@@ -3,17 +3,13 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
 </h1>
 
-
-
 I'm an <strong> User-centered Front-end Developer</strong>. I enjoy creating all kinds of web applications. I also enjoy with video games, ping-pong, motorsport and travelling.
 
 Currently, I'm working as a Front-end Developer on [BotXO](https://www.botxo.ai/), an easy-to-use chatbot builder.
 
-<br>
-
 Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel free to contact me through that network 💬.
 
-This is my small and simple [Portfolio](https://www.rafaelmelon.com/) :desktop_computer:.
+This is my [Portfolio](https://www.rafaelmelon.com/) (in progress) :desktop_computer:.
 
 <br>
 
