@@ -3,10 +3,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
 </h1>
 
-<p align="center">
-  <img width="100" height="100" src="https://rafaelmelon.com/assets/rafaelmelon.svg">
-</p>
-
 I'm an <strong> User-centered Front-end Developer</strong>. I enjoy creating all kinds of web applications. I also enjoy with video games, ping-pong, motorsport and travelling.
 
 Currently, I'm working as a Front-end Developer on [BotXO](https://www.botxo.ai/), an easy-to-use chatbot builder.
@@ -18,7 +14,7 @@ This is my [Portfolio](https://www.rafaelmelon.com/) (in progress) :desktop_comp
 <br>
 
 <div>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=rafaelmelon' alt='Rafael Melón's github stats'>
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=rafaelmelon' alt='Rafael Melón's github stats'>
 </div>
 
 <br><br>
@@ -51,7 +47,14 @@ This is my [Portfolio](https://www.rafaelmelon.com/) (in progress) :desktop_comp
     <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </span>
 </p>
+
 <br><br>
+
+<p align="center">
+  <img height="100" src="https://rafaelmelon.com/assets/rafaelmelon.svg">
+</p>
+
+<br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zitronensaure?label=Follow)
 [![Linkedin: rafaelmelon](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmelon/)](https://www.linkedin.com/in/rafaelmelon/)
