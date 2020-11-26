@@ -5,11 +5,8 @@
 
 I'm an <strong> User-centered Front-end Developer</strong>. I enjoy creating all kinds of web applications. I also enjoy with video games, ping-pong, motorsport and travelling.
 
-Currently, I'm working as a Front-end Developer on [BotXO](https://www.botxo.ai/), an easy-to-use chatbot builder.
-
 Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel free to contact me through that network 💬.
 
-This is my [Portfolio](https://www.rafaelmelon.com/) (in progress) :desktop_computer:.
 
 <br>
 
@@ -50,11 +47,6 @@ This is my [Portfolio](https://www.rafaelmelon.com/) (in progress) :desktop_comp
 
 <br><br>
 
-<p align="center">
-  <img height="100" src="https://rafaelmelon.com/assets/rafaelmelon.svg">
-</p>
-
-<br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/zitronensaure?label=Follow)
 [![Linkedin: rafaelmelon](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmelon/)](https://www.linkedin.com/in/rafaelmelon/)
