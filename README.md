@@ -1,5 +1,3 @@
-<img align="right" src="https://netbramha.com/wp-content/uploads/2016/12/senior-front-end-developer-openings.gif" height="160px" width="auto">
-
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
 </h1>
 
@@ -25,7 +23,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel f
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
       <img title="Typescript" alt="Typescript" height=40
       src="https://gustavodohara.com/blogangular/wp-content/uploads/2018/08/typescript-150x150.png">
-    <img title="React" alt="React" height=40 src="https://cdn.worldvectorlogo.com/logos/react.svg">
+    <img title="React" alt="React" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Next" alt="Next" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
     <img title="Vue" alt="Vue" height=40 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
