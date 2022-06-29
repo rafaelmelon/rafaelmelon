@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
+<h1 align="left">Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
 </h1>
 
 I'm an <strong> User-centered Front-end Developer</strong>. I enjoy creating all kinds of web applications. I also enjoy with video games, ping-pong, motorsport and travelling.
@@ -16,9 +16,9 @@ Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel f
 
 <p align="center">
   <span align="center" class="d-flex">
-    <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
+    <img title="HTML" alt="HTML" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
     <img title="CSS" alt="CSS" height=40
-      src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
       <img title="Typescript" alt="Typescript" height=40
@@ -27,7 +27,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel f
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Next" alt="Next" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
     <img title="Vue" alt="Vue" height=40 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-    <img title="Nuxt" alt="Nuxt" height=40 src="https://camo.githubusercontent.com/49c42d378786095b27eaf4d9b5241612b03abd30705a919aa2aa0efdc5e9d907/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67">
+    <img title="Nuxt" alt="Nuxt" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1280px-Nuxt_logo.svg.png">
     <img title="Angular" alt="Angular" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1920px-Angular_full_color_logo.svg.png">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="StyledComponents" alt="StyledComponents" height=40 src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
