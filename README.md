@@ -29,7 +29,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel f
     <img title="Vue" alt="Vue" height=40 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
     <img title="Nuxt" alt="Nuxt" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1280px-Nuxt_logo.svg.png">
     <img title="Angular" alt="Angular" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1920px-Angular_full_color_logo.svg.png">
-    <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
+    <img title="Sass" alt="Sass" height=40 src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
     <img title="StyledComponents" alt="StyledComponents" height=40 src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
