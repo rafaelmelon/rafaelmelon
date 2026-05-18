@@ -1,20 +1,23 @@
-<h1 align="left">Hello There, I'm <a href="https://www.linkedin.com/in/rafaelmelon/">Rafael Melón</a></strong>
-</h1>
+<h1 align="left">Hi, I'm Rafael Melón</h1>
 
-I'm an <strong> User-centered Front-end Developer</strong>. I enjoy creating all kinds of web applications. I also enjoy with video games, ping-pong, motorsport and travelling.
+**Senior Front-End Developer · AI-Augmented Engineer**
+10+ years building scalable products in health tech, fintech, and e-commerce.
 
-Check out my [LinkedIn](https://www.linkedin.com/in/rafaelmelon/), please feel free to contact me through that network 💬.
+---
 
+### Stack
 
-<br>
+React · Vue.js · TypeScript · Next.js · React Native · Node.js · GraphQL · Supabase · Cypress · Jest · Figma · Design Systems
 
-<div>
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=rafaelmelon' alt='Rafael Melón's github stats'>
-</div>
+### What I'm building
 
-<br><br>
+- [**PeliScore**](https://github.com/rafaelmelon/peliscore) — Movie discovery & AI recommendations. Next.js, Supabase, TMDB.
+- [**F1FanWiki**](https://github.com/rafaelmelon/f1fanwiki) — Formula 1 fan wiki. TypeScript.
+- [**QuickTrip**](https://github.com/rafaelmelon/quicktrip-app) — Travel route planner. React Native, Expo, TypeScript.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/zitronensaure?label=Follow)
-[![Linkedin: rafaelmelon](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmelon/)](https://www.linkedin.com/in/rafaelmelon/)
-![GitHub followers](https://img.shields.io/github/followers/rafaelmelon?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=rafaelmelon.rafaelmelon)
+---
+
+[![LinkedIn](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmelon/)
+[![GitHub followers](https://img.shields.io/github/followers/rafaelmelon?label=Follow&style=social)](https://github.com/rafaelmelon)
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelmelon&show_icons=true&hide_border=true&theme=default" alt="Rafael Melón GitHub stats">
