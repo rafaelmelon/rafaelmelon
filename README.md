@@ -19,5 +19,3 @@ React · Vue.js · TypeScript · Next.js · React Native · Node.js · GraphQL �
 
 [![LinkedIn](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmelon/)
 [![GitHub followers](https://img.shields.io/github/followers/rafaelmelon?label=Follow&style=social)](https://github.com/rafaelmelon)
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelmelon&show_icons=true&hide_border=true&theme=default" alt="Rafael Melón GitHub stats">
