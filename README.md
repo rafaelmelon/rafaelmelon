@@ -1,21 +1,25 @@
-<h1 align="left">Hi, I'm Rafael Melón</h1>
+# Hi, I'm Rafael Melón
 
-**Senior Front-End Developer · AI-Augmented Engineer**
-10+ years building scalable products in health tech, fintech, and e-commerce.
-
----
-
-### Stack
-
-React · Vue.js · TypeScript · Next.js · React Native · Node.js · GraphQL · Supabase · Cypress · Jest · Figma · Design Systems
+**Senior Frontend Engineer** · React & TypeScript · Building with AI agents
+15 years building for the web. For the last six I worked on payments at Docplanner: checkout,
+wallets, Apple Pay, Google Pay, BNPL and provider integrations. I build with an agentic, specdriven workflow (Claude Code, Cursor, Codex) and use it to ship my own products.
 
 ### What I'm building
+- **[PeliScore](https://peliscore.app)** — What to watch tonight, and where, in Spain. Learns
+from your ratings, only suggests what's on the platforms you pay for, takes requests in plain
+language, and blends the taste of a group. Live and free.
 
-- [**PeliScore**](https://github.com/rafaelmelon/peliscore) — Movie discovery & AI recommendations. Next.js, Supabase, TMDB.
-- [**F1FanWiki**](https://github.com/rafaelmelon/f1fanwiki) — Formula 1 fan wiki. TypeScript.
-- [**QuickTrip**](https://github.com/rafaelmelon/quicktrip-app) — Travel route planner. React Native, Expo, TypeScript.
+- **Family Hub** — _(pendiente: una línea cuando me lo cuentes; el repo es privado)_
+- **[rafaelmelon-ai](https://github.com/rafaelmelon/rafaelmelon-ai)** — My AI tooling layer:
+agent roles (PM, plan, build, review), MCP skills and a spec-driven workflow, with adapters
+for Claude Code, Cursor and Codex.
 
----
+- **[QuickTrip](https://github.com/rafaelmelon/quicktrip-app)** — Travel route planner. React
+Native + Expo app and a Fastify + Prisma + PostgreSQL API.
+- **[F1FanWiki](https://f1fanwiki.vercel.app)** — Formula 1 stats since 1950, with a live
+race-weekend view. React 19, Vite, Tailwind.
 
-[![LinkedIn](https://img.shields.io/badge/-rafaelmelon-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmelon/)
-[![GitHub followers](https://img.shields.io/github/followers/rafaelmelon?label=Follow&style=social)](https://github.com/rafaelmelon)
+### Stack
+React · TypeScript · Next.js · React Native · Vue.js · Node.js · Supabase · Prisma ·
+PostgreSQL · Jest · Vitest · Cypress · Design systems · Claude Code · Cursor · Codex · MCP
+[LinkedIn](https://www.linkedin.com/in/rafaelmelon/)
