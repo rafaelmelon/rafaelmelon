@@ -1,8 +1,8 @@
 # Hi, I'm Rafael Melón
 
-**Senior Software Engineer** · React, TypeScript & React Native · Payments · Building with AI agents
+**Senior Software Engineer** · React, TypeScript & React Native · Building with AI agents
 
-15 years building for the web. For the last six I worked on payments at Docplanner: checkout, wallets, Apple Pay, Google Pay, BNPL and provider integrations — on the web (Vue 3 and TypeScript) and in the mobile apps (React Native), and shipping backend changes with AI assistance when a feature needed them. I build with an agentic, spec-driven workflow (Claude Code, Cursor, Codex) and use it to ship my own products.
+15 years building for the web. For the last six I shipped product end to end at Docplanner, on the web (Vue 3 and TypeScript) and in the mobile apps (React Native), with deep experience in a complex domain, payments (checkout, wallets, Apple Pay, Google Pay, BNPL, provider integrations), plus backend changes with AI assistance when needed. I build with an agentic, spec-driven workflow (Claude Code, Cursor, Codex) and use it to ship my own products.
 
 ### What I'm building
 
