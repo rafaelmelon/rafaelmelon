@@ -4,7 +4,7 @@
 
 15 years building for the web. For the last six I shipped product end to end at Docplanner, on the web (Vue 3 and TypeScript) and in the mobile apps (React Native), in a complex, money-critical domain: payments (checkout, wallets, Apple Pay, Google Pay, BNPL, provider integrations), with GraphQL APIs and CI/CD pipelines along the way.
 
-I work with an agentic, spec-driven workflow (Claude Code, Cursor, Codex): specs first, then plan, implementation and review with AI agents, while I keep ownership of quality and decisions. I use it to ship my own products and to build AI tools for teams.
+I work with an agentic, spec-driven workflow (Claude Code, Cursor, Codex): specs first, then plan, implementation and review with AI agents, while I keep ownership of quality and decisions. AI also lets me contribute outside my core stack, including backend changes in PHP and .NET. I use it to ship my own products and to build AI tools for teams.
 
 Based in Spain, fully remote since 2019, open to remote product teams.
 
