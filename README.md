@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Rafael Melón, Senior Frontend & Product Engineer: product, payments and AI-native development" src="assets/banner.png">
+</picture>
+
 # Hi, I'm Rafael Melón
 
 **Senior Frontend & Product Engineer** | React, Vue, TypeScript | Payments | AI-native development (agents, Claude Code, MCP)
@@ -22,4 +27,4 @@ React · Vue · TypeScript · Next.js · React Native · GraphQL · Node.js · P
 
 ### Find me
 
-[rafaelmelon.com](https://rafaelmelon.com) · [LinkedIn](https://www.linkedin.com/in/rafaelmelon/) · [X](https://x.com/rafaelmelondev)
+[rafaelmelon.com](https://rafaelmelon.com/github) · [CV (PDF)](https://rafaelmelon.com/rafael-melon-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/rafaelmelon/) · [X](https://x.com/rafaelmelondev)
